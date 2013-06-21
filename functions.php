@@ -5,5 +5,5 @@
  *  @author Michael Cannon <michael@typo3vagabond.com>
  */
 
-include_once 'custom/custom_functions.php';
+include_once 'custom/peimic/custom_functions.php';
 ?>
