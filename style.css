@@ -1,0 +1,21 @@
+/*
+Theme Name:     DeepFocus Child
+Theme URI:      http://aihr.us
+Description:    Child theme for the DeepFocus theme
+Author:         Michael Cannon
+Author URI:     http://aihr.us
+Template:       DeepFocus                             
+Version:        0.1.0
+*/
+
+@import url('../DeepFocus/style.css');
+
+#header>a {
+	display: none;
+}
+#content-area #social {
+	background: none;
+}
+#content-area #social .social-comment-body {
+	width: 94%;
+}
